@@ -1,5 +1,7 @@
 # colruyt_crawler
 
+Hello reader, this performs crawling on colruyt.be for to get the product name,price 
+
 #This is a simple crawler that goes through the different pages of a food category on colruyt.be. This code still needs a bit of tweaking because it requires too much user input.
 #
 #To run this code:
